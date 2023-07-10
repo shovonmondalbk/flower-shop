@@ -228,3 +228,21 @@ footer{
     font-size: 16px;
     font-weight: 400;
 }
+
+.delivered-container{
+    display: flex;
+    padding: 0 360px;
+    gap: 24px;
+    
+}
+.delivered-box{
+    padding: 30px;
+    width: 400px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.delivered-image{
+    width: 64px;
+    height: 64px;
+}
