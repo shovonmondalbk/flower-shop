@@ -43,6 +43,7 @@ body{
 }
 section{
     text-align: center;
+    padding-top: 128px;
 
 }
 .section-title{
@@ -143,4 +144,10 @@ section{
 .hot-deal-button{
     padding: 20px 0 162px 320px;
     
+}
+
+.instagram-post{
+    display: flex;
+    gap: 24px;
+    padding: 48px 240px;
 }
