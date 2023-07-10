@@ -12,7 +12,7 @@ body{
     display: flex;
 }
 .header-left{
-    padding: 197px 0px 365px 200px ;
+    padding: 197px 0px 0px 200px ;
 }
 .header-title{
     color: #272727;
