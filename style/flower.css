@@ -154,7 +154,55 @@ section{
 .get-deal{
     width: 1440px;
     height: 449px;
-    background-image: url("/images/Rectangle-9.png");
+    padding: 64px 240px;
+    
+}
+.get-deal-box{
+    width: 1440px;
+    height: 449px;
+    background-image: url('/images/Rectangle-9.png');
     background-repeat: no-repeat;
-    padding-left: 240px;
+    background-position: 50% 50%; 
+}
+.get-deal-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 122px 500px 0 500px;
+}
+.get-deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 550px 0 550px;
+}
+.get-deal-form{
+    display: flex;
+    padding: 20px 0 0 287px;
+    gap: 16px;
+
+}
+
+.get-deal-input{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0;
+    
+}
+.get-deal-button{
+    
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    
 }
