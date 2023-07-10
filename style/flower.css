@@ -228,10 +228,12 @@ footer{
     font-size: 16px;
     font-weight: 400;
 }
+.delivered{
+    padding: 0 350px;
+}
 
 .delivered-container{
     display: flex;
-    padding: 0 360px;
     gap: 24px;
     
 }
